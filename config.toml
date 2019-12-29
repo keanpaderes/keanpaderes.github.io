@@ -1,0 +1,5 @@
+baseURL = "https://keanpaderes.github.io"
+languageCode = "en-us"
+title = "Kean Paderes"
+theme = "kportfolio"
+canonifyURLs = true
